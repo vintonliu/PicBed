@@ -1,3 +1,3 @@
 # PicBed
 
-images upload by PicGo
+images upload by PicGo/uPic
